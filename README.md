@@ -21,7 +21,7 @@ Dataset that has been used for the case study is publically available on kaggle 
 
 Data structure and organisation
 
-The datset have total of 11 csv files (Folder: Fitbase Data 3.12.16 - 4.11.16). All the files have been downloaded and viewed in Ms excel for a quick review. The dataset consist of data from thirty fitbit users and contain their personal tracker data, like heart rate, sleep monitoring, hourly step count, weight,and calories. This information will be used by me to explore the user's habits.
+The datset have total of 18 csv files (Folder: Fitbase Data 4.12.16 - 5.11.16). All the files have been downloaded and viewed in Ms excel for a quick review. The dataset consist of data from thirty fitbit users and contain their personal tracker data, like heart rate, sleep monitoring, hourly step count, weight,and calories. This information will be used by me to explore the user's habits.
 
 Sort and filter the data For the study I am going to use the daily activity , hourly Intensities, sleep data.
 
